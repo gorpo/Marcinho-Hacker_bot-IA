@@ -5,7 +5,7 @@
 [![Build](https://img.shields.io/badge/Linux-Ubuntu%20Debian-orange.svg)]()
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
 <h2 align="center">Marcinho Hacker Telegram Heroku Bot</h2>
-<img src="https://github.com/gorpoorko/Marcinho-Hacker_bot-IA/blob/master/arquivos/marcinho.jpg" alt="Marcinho um salve para você caso esteja vendo este git" width=100vw height=auto>
+<img src="https://github.com/gorpoorko/Marcinho-Hacker_bot-IA/blob/master/arquivos/marcinho.jpg" alt="Marcinho um salve para você caso esteja vendo este git" width=500vw height=auto>
 <h2>Instruções:</h2><br>
 1. Edite no arquivo config se quer rodar o bot local ou no heroku, comente e descomente as linhas.<br>
 2. Edite requeriments.txt caso tenha adicionado novas libs.<br>
