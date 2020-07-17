@@ -1,0 +1,8 @@
+telepot
+SpeechRecognition
+pydub
+pymysql
+google-api-python-client
+ffprobe-python
+dropbox
+wikipedia
