@@ -14,9 +14,9 @@ import sqlite3
 #v3 foi inserido o sistema que proibe certas palavras
 
 #token Bot----------------------------------------->
-token_bot = '1096480409:AAE6sg6eJZtH5Z_TEIzgq10SQtCvGf4KYSc'
+token_bot = '1096480409:AAE6sg6eJasdasdasd10SQtCvGf4KYSc'
 #token dropbox: https://www.dropbox.com/developers/apps
-token_dropbox = 'qkZ0vNG8-yAAAAAAAAAb6Fezog5XaQPwjRmoFEc-Wv37XTch4Whd8BjedzbJLwig'
+token_dropbox = 'qkZ0vNG8-yAAAAAAAAAb6Fezog5XaQPsafdasd7XTch4Whd8BjedzbJLwig'
 #variaveis primarias ------------>
 d = dropbox.Dropbox(token_dropbox)
 bot = telepot.Bot(token_bot)
